@@ -1,35 +1,42 @@
 {
   "name": "Open City Model (OCM) Dataset Demo",
   "description": "Open City Model is an initiative to provide cityGML data for all the buildings in the United States. By using other open datasets in conjunction with our own code and algorithms it is our goal to provide 3D geometries for every US building.",
-  "logo": "_images/dataset.png",
+  "logo": "_images/DataExplorer (9).png",
   "has_supporting_content": false,
-  "de_catalog_id": "Open_City Model (OCM) Dataset Demo_dataset_1606458374890",
-  "source_repo": "",
-  "use_explorer_dataset": false,
-  "explorer_catalog_id": "",
-  "is_s3_type": "",
-  "buckets": [
-    "opencitymodel"
-  ],
+  "de_catalog_id": "Open_City Model (OCM) Dataset Demo_dataset_1606716111240",
+  "cover": "cover.md",
+  "buckets": [],
   "meta": {
     "Install time": [
-      "2"
+      "2 minutes"
     ],
     "Type": [
       "Dataset"
     ],
-    "Dataset": [
-      ""
+    "Tag": [
+      "S3"
     ],
     "Catalog Id": [
-      "Open_City Model (OCM) Dataset Demo_dataset_1606458374890"
+      "Open_City Model (OCM) Dataset Demo_dataset_1606716111240"
     ],
     "Buckets": [],
-    "License and Use Rights": "Apache",
-    "Last Updated": "Nov 05 2020",
-    "Contact": "freedavales@xyz.com",
-    "Preferred Platform": "",
-    "Usage example": "",
-    "Managed By": "Me"
+    "License and Use Rights": [
+      "Apache"
+    ],
+    "Last Updated": [
+      "Nov 03 2020"
+    ],
+    "Contact": [
+      "freedavales@xyz.com"
+    ],
+    "Preferred Platform": [
+      "OpenShift / Kubernetes"
+    ],
+    "Usage example": [
+      ""
+    ],
+    "Managed By": [
+      "Edge Dev"
+    ]
   }
 }
